@@ -2,9 +2,6 @@
     
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I'm%20greenlemonT&fontColor=333333&fontSize=40&&color=timeAuto)
 
-## 📚 Skill 📚
-![greenlemonT GitHub stats](https://github-readme-stats.vercel.app/api?username=greenlemonT&show_icons=true&theme=transparent)
-
 ### 📘 programming 📘
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-8fce00?style=flat-square&logo=spring&logoColor=white">
@@ -26,5 +23,11 @@
 
 ## 📫 Connect 📫
   [![Naver Badge](http://img.shields.io/badge/ms950219@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:ms950219@naver.com)
+
+## 📓 Stats 📓
+![greenlemonT GitHub stats](https://github-readme-stats.vercel.app/api?username=greenlemonT&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenlemonT&layout=compact)](https://github.com/greenlemonT/greenlemonT)
+
 </div>
+
 
