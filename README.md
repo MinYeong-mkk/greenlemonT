@@ -35,6 +35,11 @@ SQLD
 ## ✨ experience ✨
 2024.07~2024.08 : 범일정보 인턴
 
+## ✨ hobby ✨
+자전거 🚲🚲🚲
+농구 🏀🏀🏀
+
+
 ## 📫 Connect 📫
   [![Naver Badge](http://img.shields.io/badge/ms950219@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:ms950219@naver.com)
 
