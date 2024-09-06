@@ -29,11 +29,12 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 
 ## 📄 certificate 📄
-정보처리기사
-SQLD
+🖋️ 정보처리기사(20XX.XX.XX)
+<br>
+🖋️ SQLD(20XX.XX.XX)
 
 ## ✨ experience ✨
-2024.07~2024.08 : 범일정보 인턴
+2024.07~2024.08 : 범일정보 인턴🧑‍💼
 
 ## 📫 Connect 📫
   [![Naver Badge](http://img.shields.io/badge/ms950219@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:ms950219@naver.com)
