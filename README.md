@@ -10,6 +10,16 @@
 <img src="https://img.shields.io/badge/Mysql-0052CC?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
 
+<br>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
+
+
+
 ### 🐥 참고자료를 보면서 쓸수있어요 🐥
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
